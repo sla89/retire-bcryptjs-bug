@@ -1,0 +1,15 @@
+{
+  "name": "retire-bcryptjs-bug",
+  "version": "1.0.0",
+  "description": "retire cannot read bower.json of bcryptjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "retire"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "retire": "^1.4.0"
+  }
+}
